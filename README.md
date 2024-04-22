@@ -56,7 +56,6 @@ NOTIMAIL • Application full stack de gestion de courrier • Projet collectif 
 👉 [Voir le repo backend](https://github.com/sophie-lambert-co/Notimail) • 🔒 [Voir le repo frontend & backend](https://github.com/tankzercode/notimail/tree/main)
 
 ![Application notimail](https://github.com/sophie-lambert-co/sophie-lambert-co/blob/main/notimail-1.jpg)
-![Application notimail](https://github.com/sophie-lambert-co/sophie-lambert-co/blob/main/notimail-2.jpg)
 
 <br>
 
@@ -65,8 +64,6 @@ DEVIS • Application de création de devis • essentiellement back-end/front-e
 ✏️ 🔒 [Voir le repo](https://github.com/sophie-lambert-co/DEVIS_PHP_CODEIGNITER)
 
 ![Application devis](https://github.com/sophie-lambert-co/sophie-lambert-co/blob/main/devis-1.jpg)
-![Application devis](https://github.com/sophie-lambert-co/sophie-lambert-co/blob/main/devis-2.jpg)
-![Application devis](https://github.com/sophie-lambert-co/sophie-lambert-co/blob/main/devis-3.jpg)
 
 <br>
 
@@ -75,7 +72,6 @@ RECETTES • Site de recettes de cuisisne • essentiellement back-end/front-end
 ✏️ 🔒 [Voir le repo](https://github.com/sophie-lambert-co/CrudMongoDB)
 
 ![Site Recettes](https://github.com/sophie-lambert-co/sophie-lambert-co/blob/main/recettes-1.jpg)
-![Site Recettes](https://github.com/sophie-lambert-co/sophie-lambert-co/blob/main/recettes-2.jpg)
 
 <br>
 
