@@ -8,12 +8,9 @@ Avec des compétences solides en gestion du temps, en créativité et en analyse
 
 Actuellement en formation à l'IMTS Dinard, je consolide mes acquis, découvre le travail d'équipe et approfondis mes compétences techniques. Mon objectif : obtenir le diplôme de développeur concepteur d'application web et web mobile, avec le CCP2 en ligne de mire pour début juillet 2024. Mon parcours témoigne d'une volonté constante de défis et d'apprentissage.
 
-```javascript
-'La prochaine étape ? Je suis à la recherche d’une alternance qui débuterai en septembre 2024,
-en tant que développeuse conceptrice d'application web et web mobile.
-Je suis convaincue que mon background, alliant créativité et compétences techniques nouvellement acquises,
-peut apporter un oeil neuf dans une entreprise digitale.'
-```
+````javascript
+La prochaine étape ? Je suis à la recherche d’une alternance qui débuterai en septembre 2024 en tant que développeuse conceptrice d'application web et web mobile Je suis convaincue que mon background, alliant créativité et compétences techniques nouvellement acquises,peut apporter un oeil neuf dans une entreprise digitale.
+````
 
 Ce n’est que le début de mon apprentissage, et je suis impatiente de voir où cela va me mener !
 
