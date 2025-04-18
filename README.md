@@ -6,10 +6,10 @@
 
 Avec des compétences solides en gestion du temps, en créativité et en analyse de marché, j'ai entrepris une nouvelle aventure passionnante : la programmation. En abandonnant tout pour devenir développeur, j'ai découvert un univers infini, où chaque ligne de code est une exploration sans fin,révélant un potentiel sans limites.
 
-Actuellement en formation à l'IMTS Dinard, je consolide mes acquis, découvre le travail d'équipe et approfondis mes compétences techniques. Mon objectif : obtenir le diplôme de développeur concepteur d'application web et web mobile, avec le CCP2 en ligne de mire pour début juillet 2024. Mon parcours témoigne d'une volonté constante de défis et d'apprentissage.
+Actuellement en formation à l'IMTS Dinard, je consolide mes acquis, découvre le travail d'équipe et approfondis mes compétences techniques. Mon objectif : obtenir le diplôme de développeur concepteur d'application web et web mobile. Mon parcours témoigne d'une volonté constante de défis et d'apprentissage.
 
 ````javascript
-La prochaine étape ? Je suis à la recherche d’une alternance qui débuterai en septembre 2024 en tant que développeuse conceptrice d'application web et web mobile Je suis convaincue que mon background, alliant créativité et compétences techniques nouvellement acquises,peut apporter un oeil neuf dans une entreprise digitale.
+Je suis actuellement developpeuse web en contrat d'apprentissage chez quelbonplan.fr.  
 ````
 
 Ce n’est que le début de mon apprentissage, et je suis impatiente de voir où cela va me mener !
@@ -19,12 +19,12 @@ N’hésitez pas à jeter un œil à mes projets sur GitHub, et à me contacter 
 <br>
 <p>******************************************</p>
 
-🧠 🚀 J'apprends actuellement **CodeIgniter 4 / JS / Docker / GitHub.**
+🧠 🚀 J'apprends actuellement **MongoDb / Angular / Nodejs**
 
 <br>
 <p>******************************************</p>
 
-💻 🍀 Je suis actuellement en stage dans une agence web, je travail sur des fonctionalitées d'un SAAS : `Dailyfy` **Click & Digital.**
+💻 🍀 Chez **QUEL BON PLAN** j'ai la chance de faire autant de front que de back. Nous construisons une architecture de plusieurs apps ( admin, seller, site web, API...et bientôt CRM, analytique ) nous somme une plateforme de B2B2C.
 
 ✉️ Pour me contacter [lemaildesophielambert@gmail.com](lemaildesophielambert@gmail.com)
 
