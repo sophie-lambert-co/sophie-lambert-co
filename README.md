@@ -2,29 +2,32 @@
 
 <br>
 
-<p>Il y a 22 ans, j'ai plongé tête la première dans le monde de la mode en tant que modéliste, styliste et chargée de collection. Mes voyages professionels à travers le globe m'ont enseigné l'importance de la collaboration, de la communication et de l'humilité.
+<p>Il y a 23 ans, j'ai plongé tête la première dans le monde de la mode en tant que modéliste, styliste et chargée de collection. Mes voyages professionels à travers le globe m'ont enseigné l'importance de la collaboration, de la communication et de l'humilité.
 
 Avec des compétences solides en gestion du temps, en créativité et en analyse de marché, j'ai entrepris une nouvelle aventure passionnante : la programmation. En abandonnant tout pour devenir développeur, j'ai découvert un univers infini, où chaque ligne de code est une exploration sans fin,révélant un potentiel sans limites.
 
-Actuellement en formation à l'IMTS Dinard, je consolide mes acquis, découvre le travail d'équipe et approfondis mes compétences techniques. Mon objectif : obtenir le diplôme de développeur concepteur d'application web et web mobile. Mon parcours témoigne d'une volonté constante de défis et d'apprentissage.
+J'ai obtenu ma certification concepteur/développeur d'applications en Juillet 2025, je consolide mes acquis chaque jour et grâce à une merveilleuse année d'alternance chez QuelbonPlan, j'ai pu découvrir le travail d'équipe en tant que développeuse et approfondir mes compétences techniques. Mon objectif : Allier Design et Developpement au sein de mon travail. Mon parcours témoigne d'une volonté constante de défis et d'apprentissage.
 
 ````javascript
-Je suis actuellement developpeuse web en contrat d'apprentissage chez quelbonplan.fr.  
+Je suis actuellement en recherche d'une nouvelle aventure professionnelle.  
 ````
 
-Ce n’est que le début de mon apprentissage, et je suis impatiente de voir où cela va me mener !
+Ce n’est que le début de ma nouvelle vie de dev, et je suis impatiente de voir où cela va me mener !
 
 N’hésitez pas à jeter un œil à mes projets sur GitHub, et à me contacter si mon profil vous intérresse, ou tout simplement pour échanger !</p>
 
 <br>
 <p>******************************************</p>
 
-🧠 🚀 J'apprends actuellement **MongoDb / Angular / Nodejs**
+🧠  J'apprends actuellement **MongoDb / Angular / Nodejs** 
+🚀  Je peaufine mes compétences Figma**
 
 <br>
 <p>******************************************</p>
 
-💻 🍀 Chez **QUEL BON PLAN** j'ai la chance de faire autant de front que de back. Nous construisons une architecture de plusieurs apps ( admin, seller, site web, API...et bientôt CRM, analytique ) nous somme une plateforme de B2B2C.
+💻🍀 Chez QuelBonPlan, j’ai eu la chance de travailler à la fois sur le front-end et le back-end.
+Nous avons conçu une architecture composée de plusieurs applications (admin, seller, site web, API) pour créer une plateforme B2B2C.
+La principale difficulté au départ a été de comprendre un code semi-opaque, en raison des nombreuses couches d’abstraction générées automatiquement par des générateurs de code et des librairies internes.
 
 ✉️ Pour me contacter [lemaildesophielambert@gmail.com](lemaildesophielambert@gmail.com)
 
